@@ -26,6 +26,3 @@
 ---
 
 Если у вас есть дополнительные детали или конкретные требования, пожалуйста, сообщите, и я помогу вам доработать документацию.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/17094308/a35aec7b-790d-4057-9d5d-5d513e7cc4fd/morozov_ab_credit_ipynb_-1.ipynb
